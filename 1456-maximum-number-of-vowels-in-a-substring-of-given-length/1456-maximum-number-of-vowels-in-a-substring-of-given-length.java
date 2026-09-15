@@ -3,7 +3,6 @@ class Solution {
         int count = 0;
         int max = 0;
 
-        // First window
         for (int i = 0; i < k; i++) {
             if (isVowel(s.charAt(i))) {
                 count++;
@@ -12,7 +11,6 @@ class Solution {
 
         max = count;
 
-        // Slide the window
         for (int i = k; i < s.length(); i++) {
             if (isVowel(s.charAt(i))) {
                 count++;
@@ -24,7 +22,6 @@ class Solution {
 
             max = Math.max(max, count);
 
-            // Maximum possible, no need to continue
             if (max == k) {
                 return k;
             }
