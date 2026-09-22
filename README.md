@@ -40,10 +40,12 @@ Leetcode Problems Solved
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0049-group-anagrams) |
 | [0704-binary-search](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
