@@ -43,6 +43,7 @@ Leetcode Problems Solved
 | [0035-search-insert-position](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0049-group-anagrams) |
 | [0704-binary-search](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0704-binary-search) |
+| [0867-transpose-matrix](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
@@ -50,4 +51,12 @@ Leetcode Problems Solved
 | [0035-search-insert-position](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0875-koko-eating-bananas) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
