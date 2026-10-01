@@ -28,6 +28,7 @@ Leetcode Problems Solved
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Leetcode Problems Solved
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0049-group-anagrams) |
 | [0704-binary-search](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0867-transpose-matrix) |
@@ -54,6 +56,7 @@ Leetcode Problems Solved
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
