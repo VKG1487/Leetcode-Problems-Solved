@@ -29,6 +29,7 @@ Leetcode Problems Solved
 | ------- |
 | [0002-add-two-numbers](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Leetcode Problems Solved
 | [0042-trapping-rain-water](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0049-group-anagrams) |
+| [0189-rotate-array](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0875-koko-eating-bananas) |
@@ -67,6 +69,7 @@ Leetcode Problems Solved
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
