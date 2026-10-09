@@ -49,6 +49,7 @@ Leetcode Problems Solved
 | [0049-group-anagrams](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0075-sort-colors) |
+| [0152-maximum-product-subarray](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0724-find-pivot-index) |
@@ -80,6 +81,7 @@ Leetcode Problems Solved
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0152-maximum-product-subarray) |
 ## Stack
 |  |
 | ------- |
