@@ -47,6 +47,7 @@ Leetcode Problems Solved
 | [0042-trapping-rain-water](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0704-binary-search) |
@@ -78,6 +79,7 @@ Leetcode Problems Solved
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0053-maximum-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -98,4 +100,8 @@ Leetcode Problems Solved
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0724-find-pivot-index) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
