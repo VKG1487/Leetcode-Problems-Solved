@@ -22,6 +22,7 @@ Leetcode Problems Solved
 | [0049-group-anagrams](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0242-valid-anagram) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Leetcode Problems Solved
 | [0724-find-pivot-index](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0875-koko-eating-bananas) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,6 +118,7 @@ Leetcode Problems Solved
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0169-majority-element) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
