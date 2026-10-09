@@ -17,6 +17,7 @@ Leetcode Problems Solved
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0169-majority-element) |
@@ -45,6 +46,7 @@ Leetcode Problems Solved
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0048-rotate-image) |
