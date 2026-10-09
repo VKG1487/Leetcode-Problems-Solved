@@ -67,6 +67,7 @@ Leetcode Problems Solved
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0035-search-insert-position) |
+| [0278-first-bad-version](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0875-koko-eating-bananas) |
 ## Matrix
@@ -129,4 +130,8 @@ Leetcode Problems Solved
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0011-container-with-most-water) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
