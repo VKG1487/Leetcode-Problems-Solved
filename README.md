@@ -50,6 +50,7 @@ Leetcode Problems Solved
 | [0075-sort-colors](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
@@ -93,4 +94,8 @@ Leetcode Problems Solved
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0075-sort-colors) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
