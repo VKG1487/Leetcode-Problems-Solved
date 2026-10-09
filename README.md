@@ -48,6 +48,7 @@ Leetcode Problems Solved
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0048-rotate-image) |
@@ -80,6 +81,7 @@ Leetcode Problems Solved
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0189-rotate-array) |
@@ -123,4 +125,8 @@ Leetcode Problems Solved
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0169-majority-element) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
