@@ -57,6 +57,7 @@ Leetcode Problems Solved
 | [0053-maximum-subarray](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0169-majority-element) |
@@ -96,6 +97,7 @@ Leetcode Problems Solved
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0119-pascals-triangle-ii) |
 | [0152-maximum-product-subarray](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0152-maximum-product-subarray) |
 ## Stack
