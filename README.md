@@ -55,6 +55,7 @@ Leetcode Problems Solved
 | [0048-rotate-image](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0118-pascals-triangle) |
@@ -73,6 +74,7 @@ Leetcode Problems Solved
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0278-first-bad-version](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0704-binary-search) |
@@ -81,6 +83,7 @@ Leetcode Problems Solved
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
