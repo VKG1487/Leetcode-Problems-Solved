@@ -68,6 +68,7 @@ Leetcode Problems Solved
 | [0867-transpose-matrix](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0875-koko-eating-bananas) |
 | [1572-matrix-diagonal-sum](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/1572-matrix-diagonal-sum) |
+| [2643-row-with-maximum-ones](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/2643-row-with-maximum-ones) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
@@ -86,6 +87,7 @@ Leetcode Problems Solved
 | [0074-search-a-2d-matrix](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/1572-matrix-diagonal-sum) |
+| [2643-row-with-maximum-ones](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/2643-row-with-maximum-ones) |
 ## Simulation
 |  |
 | ------- |
