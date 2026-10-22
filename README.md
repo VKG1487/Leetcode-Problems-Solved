@@ -66,6 +66,7 @@ Leetcode Problems Solved
 | [0724-find-pivot-index](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0875-koko-eating-bananas) |
+| [1572-matrix-diagonal-sum](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/1572-matrix-diagonal-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Binary Search
 |  |
@@ -81,6 +82,7 @@ Leetcode Problems Solved
 | ------- |
 | [0048-rotate-image](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/1572-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
