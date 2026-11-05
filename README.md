@@ -20,6 +20,7 @@ Leetcode Problems Solved
 | [0001-two-sum](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0049-group-anagrams) |
+| [0141-linked-list-cycle](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0242-valid-anagram) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -27,6 +28,7 @@ Leetcode Problems Solved
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +103,7 @@ Leetcode Problems Solved
 | [0011-container-with-most-water](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -152,4 +155,8 @@ Leetcode Problems Solved
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0278-first-bad-version) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/VKG1487/Leetcode-Problems-Solved/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
